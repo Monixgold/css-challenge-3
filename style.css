@@ -1,5 +1,6 @@
 h3 {
     background-color: blue;
+    color: solid white;
 }
 
 section {
@@ -8,7 +9,7 @@ section {
         margin: 5px;
 }
 
-.boxes {
+.div {
     font-family: 'Times New Roman', Times, serif;
     display:block;
     justify-content: space-evenly;
