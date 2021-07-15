@@ -1,0 +1,19 @@
+h3 {
+    background-color: blue;
+}
+
+section {
+        border: 2px solid black;
+        height: 250px;
+        margin: 5px;
+}
+
+.boxes {
+    font-family: 'Times New Roman', Times, serif;
+    display:block;
+    justify-content: space-evenly;
+    border: 2px solid white;
+    width: 900px;
+    height: 300px;
+    align-items: center;
+}
